@@ -1,0 +1,22 @@
+{
+  "name": "couchdb-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvivdevclub/couchdb-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lvivdevclub/couchdb-sandbox/issues"
+  },
+  "homepage": "https://github.com/lvivdevclub/couchdb-sandbox#readme",
+  "dependencies": {
+    "nano": "^8.2.2"
+  }
+}
