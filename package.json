@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lvivdevclub/couchdb-sandbox#readme",
   "dependencies": {
+    "fauxton": "^1.2.5",
     "nano": "^8.2.2"
   }
 }
